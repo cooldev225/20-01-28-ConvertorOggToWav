@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\2020-development\\18-01-28-ConvertorOggToWav\\SimpleConverterOggToWAV\\OggVorbisEncoder\\OggVorbisEncoder.csproj": {}
+  },
+  "projects": {
+    "E:\\2020-development\\18-01-28-ConvertorOggToWav\\SimpleConverterOggToWAV\\OggVorbisEncoder\\OggVorbisEncoder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\2020-development\\18-01-28-ConvertorOggToWav\\SimpleConverterOggToWAV\\OggVorbisEncoder\\OggVorbisEncoder.csproj",
+        "projectName": "OggVorbisEncoder",
+        "projectPath": "E:\\2020-development\\18-01-28-ConvertorOggToWav\\SimpleConverterOggToWAV\\OggVorbisEncoder\\OggVorbisEncoder.csproj",
+        "packagesPath": "C:\\Users\\Anca\\.nuget\\packages\\",
+        "outputPath": "E:\\2020-development\\18-01-28-ConvertorOggToWav\\SimpleConverterOggToWAV\\OggVorbisEncoder\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\Anca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net35",
+          "netstandard1.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\2019-development\\11-17-converter_mysql_to_mssql\\9th-project\\projects\\packages": {},
+          "F:\\C-Disk-Programs\\Visual Studio 2019\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net35": {
+            "projectReferences": {}
+          },
+          "netstandard1.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net35": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard1.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
